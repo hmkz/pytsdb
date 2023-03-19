@@ -1,0 +1,15 @@
+__pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    *.so
+    *.dylib
+    *.egg-info
+    *.egg
+    .installed.cfg
+    *.egg-link
+    *.manifest
+    *.spec
+    *.log
+data/
+*.ipynb
